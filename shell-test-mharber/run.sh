@@ -1,0 +1,1 @@
+cat auth.log | egrep New.*session

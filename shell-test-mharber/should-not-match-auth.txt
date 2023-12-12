@@ -1,0 +1,4 @@
+Nov  7 21:12:33 scc-it120 sshd[1026]: Connection closed by invalid user adminmous 104.223.20.201 port 64698 [preauth]
+Nov  7 21:12:34 scc-it120 sshd[1029]: Connection closed by invalid user activemq 104.223.20.201 port 8816 [preauth]
+Nov  7 21:12:38 scc-it120 sshd[1031]: Connection closed by invalid user vyos 104.223.20.201 port 23222 [preauth]
+Nov  7 21:12:42 scc-it120 sshd[1034]: Connection closed by invalid user user 104.223.20.201 port 34600 [preauth]
